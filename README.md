@@ -2,7 +2,9 @@
 
 
 # I’m Ankur Shekhar
-
+ Undergrad student
+• Instagram: https://www.instagram.com/shekhar20_ankur/
+• Linkedin: https://www.linkedin.com/in/ankur-shekhar-034183191/
 
 
 # I work with following languages & frameworks:
