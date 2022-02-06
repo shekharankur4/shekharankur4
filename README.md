@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @shekharankur4
-- 👀 I’m interested in Coding, FrontEnd & BackEnd Development
-- 🌱 I’m currently learning React.Js, Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ # Hi there👋
+ 
+ # I’m Ankur Shekhar
+
+# I work with following languages:
+• C++
+• Python
+• Django
+• JavaScript
+• ReactJs
 
 <!---
 shekharankur4/shekharankur4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
