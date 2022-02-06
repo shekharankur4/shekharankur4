@@ -3,8 +3,8 @@
 
 # I’m Ankur Shekhar<br>
  Undergrad student<br>
-• Instagram: https://www.instagram.com/shekhar20_ankur/<br>
 • Linkedin: https://www.linkedin.com/in/ankur-shekhar-034183191/<br>
+• Instagram: https://www.instagram.com/shekhar20_ankur/<br>
 
 
 <strong>I work with following languages & frameworks:</strong><br>
