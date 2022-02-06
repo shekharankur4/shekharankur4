@@ -1,8 +1,11 @@
- Hi there👋
- 
- # I’m Ankur Shekhar
+# Hi there👋
 
-I work with following languages:
+
+# I’m Ankur Shekhar
+
+
+
+# I work with following languages & frameworks:
 • C++
 • Python
 • Django
