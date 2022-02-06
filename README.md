@@ -1,18 +1,18 @@
-# Hi there👋
+<strong>Hi there👋</strong>
 
 
-# I’m Ankur Shekhar
- Undergrad student
-• Instagram: https://www.instagram.com/shekhar20_ankur/
-• Linkedin: https://www.linkedin.com/in/ankur-shekhar-034183191/
+# I’m Ankur Shekhar<br>
+ Undergrad student<br>
+• Instagram: https://www.instagram.com/shekhar20_ankur/<br>
+• Linkedin: https://www.linkedin.com/in/ankur-shekhar-034183191/<br>
 
 
-# I work with following languages & frameworks:
-• C++
-• Python
-• Django
-• JavaScript
-• ReactJs
+<strong>I work with following languages & frameworks:</strong><br>
+• C++<br>
+• Python<br>
+• Django<br>
+• JavaScript<br>
+• ReactJs<br>
 
 <!---
 shekharankur4/shekharankur4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
