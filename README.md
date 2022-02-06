@@ -1,8 +1,8 @@
- # Hi there👋
+ Hi there👋
  
  # I’m Ankur Shekhar
 
-# I work with following languages:
+I work with following languages:
 • C++
 • Python
 • Django
