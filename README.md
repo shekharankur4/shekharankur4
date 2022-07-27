@@ -8,7 +8,7 @@
 
 
 
-<strong>I work with following languages & frameworks:</strong><br>
+<strong>I work with following programming languages & frameworks:</strong><br>
 • C++<br>
 • Python<br>
 • Django<br>
